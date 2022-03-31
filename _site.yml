@@ -4,6 +4,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Baseball"
+      href: baseball.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:kieran@limings.us

@@ -1,11 +1,5 @@
 ---
-title: "My Website"
+title: "My Resume"
 ---
 
-My current Resume:
-
-<img src="files/Resume_Baseball.pdf">
-
-\begin{center} <br>
-\includegraphics[width=8in]{files/Resume_Baseball.pdf} <br>
-\end{center}
+<iframe src="https://drive.google.com/file/d/1E3vHXr5IBnEFePILK6W5sotlW9uQfI0G/preview" width="854" height="1100" allow="autoplay"></iframe>

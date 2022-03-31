@@ -1,0 +1,25 @@
+---
+  title: "Baseball"
+---
+
+This page is dedicated to my current and former projects in baseball. 
+
+Papers about baseball:
+
+[Bayesian Analysis of Zero MPH Exit Velocity Fastballs during the 2019 Season](https://www.dropbox.com/s/015w63x8bovg4cf/Bayesian%20Analysis%20of%20Zero%20MPH%20Exit%20Velocity%20Fastballs%20during%20the%202019%20Season%20Report.pdf?dl=0)
+
+[Major League Baseball Hall of Fame Ballot Longevity](https://www.dropbox.com/s/xqnwl9vnf0dm5xy/Major%20League%20Baseball%20Hall%20of%20Fame%20Ballot%20Longevity.pdf?dl=0)
+
+[Practical Spin Factor Calculation for the Magnus Force on a Pitched Baseball](https://drive.google.com/file/d/1E3vHXr5IBnEFePILK6W5sotlW9uQfI0G/view?usp=sharing)
+
+Personal Mechanical Breakdowns:
+
+```{r, echo=FALSE}
+vembedr::embed_url("https://www.youtube.com/watch?v=RiRKBV47iR8&t=1s")
+```
+
+
+```{r, echo=FALSE}
+vembedr::embed_url("https://www.youtube.com/watch?v=HuOOtpiW5GU")
+```
+
