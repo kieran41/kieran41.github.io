@@ -2,5 +2,10 @@
 title: "My Website"
 ---
 
-Hello, Website! test
+My current Resume:
 
+<img src="files/Resume_Baseball.pdf">
+
+\begin{center} <br>
+\includegraphics[width=8in]{files/Resume_Baseball.pdf} <br>
+\end{center}
