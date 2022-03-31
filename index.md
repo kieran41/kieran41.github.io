@@ -1,5 +1,0 @@
----
-title: "My Resume"
----
-
-<iframe src="https://drive.google.com/file/d/1E3vHXr5IBnEFePILK6W5sotlW9uQfI0G/preview" width="854" height="1100" allow="autoplay"></iframe>
